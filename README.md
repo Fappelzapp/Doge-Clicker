@@ -5,7 +5,7 @@ Its easy right now, you cant do anything! :3
 I will try to make something better than this...
 
 # Play Here
-https://fappelzapp.github.io/DogeClicker/
+https://fappelzapp.github.io/Doge-Clicker/
 
 
 
