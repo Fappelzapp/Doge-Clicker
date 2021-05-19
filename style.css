@@ -1,6 +1,4 @@
-         <style>
- 
-            .BigHeadingClickButton {
+         .BigHeadingClickButton {
                 text-align: center;
                 width: 1000px;
                 border-radius: 10px;  
@@ -66,4 +64,10 @@
             font-family: cursive;
             font-size: 20px;
             border-radius: 20px;
+        }
+        .Research {
+        font-family: cursive;
+        font-size: 20px;
+        border-radius: 20px;
+        background-color: aqua;
         }
