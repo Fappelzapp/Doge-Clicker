@@ -4,6 +4,6 @@ Its easy right now, you cant do anything! :3
 
 I will try to make something better than this...
 
-#Play Here
-file:///C:/OpenWorkspace/DogeClicker.html
+# Play Here
+
 
