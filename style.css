@@ -1,73 +1,73 @@
-         .BigHeadingClickButton {
-                text-align: center;
-                width: 1000px;
-                border-radius: 10px;  
-                background-color: rgb(97, 97, 97);  
-                color: white;    
-                font-family: cursive;      
-            }
-              body {
-                background: radial-gradient( rgb(255, 255, 255), rgb(180, 180, 180), rgb(255, 214, 214) );
-                   visibility: visible;
-             }  
-            
-            .AddDogecoin {
-                background-color: silver;
-                color: rgb(0, 247, 255);
-                padding: 5px;
-                border-radius: 50px;
-                width: 300px;
-                height: 300px;
-                font-family: cursive;
-                font-size: 50px;
-                background-image: "HMMDoge";
-            }
-           .Settings {
-               font-family: cursive;
-               border-radius: 20px;
-               background-color: lime;
-               font-size: 20px;
-           }
-           
-           .HMMDoge {
-               position: relative; right: 270px;
-            position: relative; bottom: 45px;  
-            opacity: 90%;   
-                  
-        }
+        .BigHeadingClickButton {
+    text-align: center;
+    width: 1000px;
+    border-radius: 10px;  
+    background-color: rgb(97, 97, 97);  
+    color: white;    
+    font-family: cursive;      
+}
+  body {
+    background: radial-gradient( rgb(255, 255, 255), rgb(180, 180, 180), rgb(255, 214, 214) );
+       visibility: visible;
+ }  
 
-        .DogecoinFoto {
-        width: 180px;
-        height: 100px;    
-        position: relative; left: 1200px;
-        position: relative; bottom: 200px;
-        
-        }
-        .DogecoinBalance {
-            position: relative; bottom: 440px;
-            position: relative; left: 1500px;
-            color: gold;
-            background: linear-gradient(gold silver grey);
-            font-size: 20px;
-            font-family: cursive;
-            
-        }
-        .Shop{
-        background-color:magenta;
-        border-radius: 20px;
-        font-family: cursive;
-        font-size: 20px;
-        
-        }
-        .Market{
-            background-color: orangered;
-            font-family: cursive;
-            font-size: 20px;
-            border-radius: 20px;
-        }
-        .Research {
-        font-family: cursive;
-        font-size: 20px;
-        border-radius: 20px;
-        background-color: aqua;
-        }
+.AddDogecoin {
+    background-color: silver;
+    color: rgb(0, 247, 255);
+    padding: 5px;
+    border-radius: 50px;
+    width: 300px;
+    height: 300px;
+    font-family: cursive;
+    font-size: 50px;
+    background-image: "HMMDoge";
+}
+.Settings {
+   font-family: cursive;
+   border-radius: 20px;
+   background-color: lime;
+   font-size: 20px;
+}
+
+.HMMDoge {
+   position: relative; right: 270px;
+position: relative; bottom: 45px;  
+opacity: 90%;   
+      
+}
+
+.DogecoinFoto {
+width: 180px;
+height: 100px;    
+position: relative; left: 1200px;
+position: relative; bottom: 200px;
+
+}
+.DogecoinBalance {
+position: relative; bottom: 440px;
+position: relative; left: 1500px;
+color: gold;
+background: linear-gradient(gold silver grey);
+font-size: 20px;
+font-family: cursive;
+
+}
+.Shop{
+background-color:magenta;
+border-radius: 20px;
+font-family: cursive;
+font-size: 20px;
+
+}
+.Market{
+background-color: orangered;
+font-family: cursive;
+font-size: 20px;
+border-radius: 20px;
+}
+.Research {
+font-family: cursive;
+font-size: 20px;
+border-radius: 20px;
+background-color: aqua;
+}
