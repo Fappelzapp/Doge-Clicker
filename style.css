@@ -1,4 +1,6 @@
- .BigHeadingClickButton {
+         <style>
+ 
+            .BigHeadingClickButton {
                 text-align: center;
                 width: 1000px;
                 border-radius: 10px;  
@@ -7,12 +9,12 @@
                 font-family: cursive;      
             }
               body {
-                  background: radial-gradient( rgb(255, 255, 255), rgb(180, 180, 180), rgb(255, 214, 214) );
+                background: radial-gradient( rgb(255, 255, 255), rgb(180, 180, 180), rgb(255, 214, 214) );
                    visibility: visible;
              }  
             
             .AddDogecoin {
-                background: radial-gradient(rgb(0, 225, 255) rgb(0, 255, 0));
+                background-color: silver;
                 color: rgb(0, 247, 255);
                 padding: 5px;
                 border-radius: 50px;
@@ -24,6 +26,9 @@
             }
            .Settings {
                font-family: cursive;
+               border-radius: 20px;
+               background-color: lime;
+               font-size: 20px;
            }
            
            .HMMDoge {
@@ -34,7 +39,7 @@
         }
 
         .DogecoinFoto {
-        width: 190px;
+        width: 180px;
         height: 100px;    
         position: relative; left: 1200px;
         position: relative; bottom: 200px;
@@ -49,6 +54,16 @@
             font-family: cursive;
             
         }
-
- 
+        .Shop{
+        background-color:magenta;
+        border-radius: 20px;
+        font-family: cursive;
+        font-size: 20px;
         
+        }
+        .Market{
+            background-color: orangered;
+            font-family: cursive;
+            font-size: 20px;
+            border-radius: 20px;
+        }
