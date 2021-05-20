@@ -85,4 +85,6 @@ background-color: aqua;
    border: 20px rgb(41, 41, 41);
    border-radius: 50px;
    position: relative; left: 320px; bottom: 600px;
+  opacity: 60%;
 }
+
